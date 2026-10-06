@@ -112,8 +112,3 @@ Expected response:
 - The proxy only accepts requests from Chrome extensions and localhost (CORS policy)
 - `.env` is gitignored — it will never be accidentally committed
 
----
-
-## 📄 License
-
-MIT
